@@ -1,26 +1,26 @@
 
-
-sideA = parseInt(document.Triangle_Inputs.sideA.value);
-sideB = parseInt(document.Triangle_Inputs.sideB.value);
-sideC = parseInt(document.Triangle_Inputs.sideC.value);
-    
-var sideA ;
-var sideB ;
-var sideC;
-Triangle_Inputs = FormName
-   if (sideA + sideB > sideC && sideA + sideC > sideB && sideB+sideC> sideA){
-   }
-   alert("Is a Triangle")
+function herTriangle() {
+    side1 = parseInt(document.getElementById('side1').value);
+    side2 = parseInt(document.getElementById('side2').value);
+    side3 = parseInt(document.getElementById('side3').value);
+        
    
-    if (sideA == sideB && sideB == sideC) {
-    }
-     alert("Equilateral");
-    if (sideA != sideB == sideC) {
-    }
-    alert("Isosceles");
-    if (sideA != sideB != sideC != sideA) {
-    alert("Scalene!");    
-
-    }
-
     
+      
+        if (side1 ===side2 && side2 === side3 && side1 ===side3) {
+           console.log(alert("This triangle is Equilateral"));
+        }
+           
+       else if(side1 === side2 && side2 !== side3 && side1 !== side3) {
+         alert("this triangle is Isosceles");
+        }
+ 
+   
+      else if (side1 !== side2 && side1 !== side3 && side2!== side3) {
+        alert(" This triangle is Scalene!"); 
+        }
+
+     else {
+alert("is no triangle")
+   }
+}
