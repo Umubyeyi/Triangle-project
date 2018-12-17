@@ -10,6 +10,7 @@ scalene triangle: A scalene triangle is a triangle that has three unequal sides.
 ## Author information: 
 By ** UMUBYEYI Dinah **
 ## Setup instructions : 
+if you want to access to my project do cloning and open it on file.html
 ## BDD:
 | Behavior                                                         | Input     |  Output      |
 | :----------------------------------------------------------------| :--------:| -----------: |
@@ -28,4 +29,4 @@ Email address:dinahu2020@gmail.com
 ## copyright and license information
 *Determine the license under which this application can be used.  See below for more details on licensing.*
 
-Copyright (c) {2018} **{UMUBYEYI Dinah}**
+MIT and Copyright  2018 by Umubyeyi Dinah. All right reserved.
