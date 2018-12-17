@@ -8,3 +8,5 @@ Equilateral triangle:In geometry, an equilateral triangle is a triangle in which
 Isoscele triangle: Isosceles triangle. ... In geometry, an isosceles triangle is a triangle that has two sides of equal length. Sometimes it is specified as having exactly two sides of equal length, and sometimes as having at least two sides of equal length, the latter version thus including the equilateral triangle as a special case.
 scalene triangle: A scalene triangle is a triangle that has three unequal sides.
 
+
+
