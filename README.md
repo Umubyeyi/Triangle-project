@@ -22,3 +22,15 @@ scalene triangle: A scalene triangle is a triangle that has three unequal sides.
 |  numbers                     |    2, 3, 4      |     scalene|         |it will say it is scalene     |                 |            |         |                              |                 |            |
 |------------------------------|------------------------------|-        | when I put 0 number on 3side |     0, 0, 0     |There is not|         |or in 1 side, it will say     |                 |  triangle  |
 |    it is not triangle        |                 |            |         |-------------------------------------------------------------|         
+
+## Technologies used :
+the language I used are: html language, java script language, and css language.
+
+## contact information:
+phone number: 0788945594
+Email address:dinahu2020@gmail.com
+
+## copyright and license information
+*Determine the license under which this application can be used.  See below for more details on licensing.*
+
+Copyright (c) {2018} **{UMUBYEYI Dinah}**
