@@ -4,7 +4,11 @@ function checkInputs() {
     side2 = parseInt(document.getElementById('side2').value);
     side3 = parseInt(document.getElementById('side3').value);
         
-   
+   var sides={side1, side2, side3 }
+   sides.forEach(function(sides){
+      console.log("number " + sides )
+      
+   });
     
         if((side1+side2)>side3 && (side1+side3)>side2 && (side2+side3)>side1){
         if (side1 ===side2 && side2 === side3 && side1 ===side3) {

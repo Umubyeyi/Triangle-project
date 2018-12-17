@@ -1,6 +1,7 @@
 
 body{
     background-color: skyblue;
+    
 }
 
 p.oblique {
@@ -13,7 +14,7 @@ p{
     width: 0;
     border-left: 100px solid transparent;
     border-right: 100px solid transparent;
-    border-bottom: 100px solid skyblue;
+    border-bottom: 100px solid orangered;
 }
 #isotriangle{
     width: 0;
@@ -28,4 +29,11 @@ p{
     border-right: 100px solid transparent;
     border-bottom: 50px solid lime;
 
+}
+h1{
+    color:whitesmoke;
+}
+h2{
+    font-family:italic;
+    color:violet; 
 }
