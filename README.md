@@ -11,9 +11,14 @@ scalene triangle: A scalene triangle is a triangle that has three unequal sides.
 ## Author information:
 ## Setup instructions : 
 ## BDD:
-|  Behavior|  Input |  Output |
-|----------|  ------|---------|-       
-|          |        |         |
-|          |        |         |
-|          |        |         |
-
+--------------------------------------------------------------|
+|  Behavior                    |  Input          |  Output    |         |                              |                 |            |  
+|----------  ---------------   |- ---------------|----------- |-      
+|  When I put 3 equals numbers,|   2, 2, 2       |Equilateral |
+| it will say it is equilateral|                 |            |
+| ------------------------------------------------------------|         | When I put 2 equals numbers  |   3, 3, 1       |Isoscele    |
+| and 1number not equal of both|                 |            |         | ,it will say it is isoscele  |                 |            |
+| ---------------------------  |- ---------------|----------- |         |When I put 3 differents       |                 |            |
+|  numbers                     |    2, 3, 4      |     scalene|         |it will say it is scalene     |                 |            |         |                              |                 |            |
+|------------------------------|------------------------------|-       |  when I put 0 number on 3side |     0, 0, 0     |There is not|         |or in 1 side, it will say     |                 |  triangle  |
+|    it is not triangle        |                 |            |         |-------------------------------------------------------------|         
