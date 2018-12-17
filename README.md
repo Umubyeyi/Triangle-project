@@ -20,5 +20,5 @@ scalene triangle: A scalene triangle is a triangle that has three unequal sides.
 | and 1number not equal of both|                 |            |         | ,it will say it is isoscele  |                 |            |
 | ---------------------------  |- ---------------|----------- |         |When I put 3 differents       |                 |            |
 |  numbers                     |    2, 3, 4      |     scalene|         |it will say it is scalene     |                 |            |         |                              |                 |            |
-|------------------------------|------------------------------|-       |  when I put 0 number on 3side |     0, 0, 0     |There is not|         |or in 1 side, it will say     |                 |  triangle  |
+|------------------------------|------------------------------|-        | when I put 0 number on 3side |     0, 0, 0     |There is not|         |or in 1 side, it will say     |                 |  triangle  |
 |    it is not triangle        |                 |            |         |-------------------------------------------------------------|         
