@@ -1,6 +1,7 @@
 
 body{
     background-color: skyblue;
+    padding:100px;
     
 }
 
@@ -32,8 +33,22 @@ p{
 }
 h1{
     color:whitesmoke;
+    
 }
 h2{
     font-family:italic;
-    color:violet; 
+    
+    
+} 
+
+#Form{
+    padding: 5px;
+    box-shadow: 5px 5px 5px black;
+    background-color:grey;
+    opacity: 0,01;
+    border-radius:50%;
+    text-align:center;
 }
+
+    
+

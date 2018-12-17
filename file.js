@@ -30,6 +30,6 @@ function checkInputs() {
         }
       }
      else {
-alert("is no triangle")
+alert("There is no triangle")
    }
 }

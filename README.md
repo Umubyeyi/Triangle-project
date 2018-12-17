@@ -11,17 +11,12 @@ scalene triangle: A scalene triangle is a triangle that has three unequal sides.
 By ** UMUBYEYI Dinah **
 ## Setup instructions : 
 ## BDD:
---------------------------------------------------------------  ----    |
-|  Behavior                    |  Input          |  Output           |  |                              |                 |                   |  
-|----------  ---------------   |- ---------------|-------------------   |                              |                 |                   |  |                              |
-|  When I put 3 equals numbers,|   2, 2, 2       |Equilateral        |
-| it will say it is equilateral|                 |                   |
-| -------------------------------------------------------------------   |  When I put 2 equals numbers |   3, 3, 1       |  Isoscele         |
-| and 1number not equal of both|                 |                   |  | ,it will say it is isoscele  |                 |                   |
-| ---------------------------  |- ---------------|-------------------   |    When I put 3 differents   |                 |scalene            |
-|  numbers                     |    2, 3, 4      |                   |  | it will say it is scalene    |                 |                   |                                 |                 |                   | 
-|------------------------------|-----------------|--------------------  |  when I put 0 number on 3side|     0, 0, 0     |  There is not     |    or in 1 side, it will say    |                 |       triangle    |  
-|    it is not triangle        |                 |                   |  |      --------------------------------------------------------------|         
+| Behavior                                                         | Input     |  Output      |
+| :----------------------------------------------------------------| :--------:| -----------: |
+| when you put in 3 equal numbers it will say equilateral            | 10,10,10  | Equilateral  |
+| when you put in 2 equal numbers it will say  isosceles             | 30,30,50 |  Isosceles   |
+| when you put in 3 different numbers it will say scalene            | 30,40,50  | Scalene      |
+| when the sum of two values is less than or equal to the third will say Not a Triangle     | 10,34,90  | No Triangle     |
 
 ## Technologies used :
 the language I used are: html language, java script language, and css language.
